@@ -17,7 +17,5 @@ Implement a malloc-like memory allocation library in C.
 
 6. Our test program contains the main() and it includes mymalloc.h. Do not include a main() in your mymalloc.c.
 
-7. Upload only the mymalloc.c and mymalloc.h to UGVLE by the due date.
-
-8. You cannot use malloc() and free() in your implementation of MyMalloc() and MyFree().
+7. You cannot use malloc() and free() in your implementation of MyMalloc() and MyFree().
 
